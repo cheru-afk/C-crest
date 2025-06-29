@@ -1,3 +1,10 @@
+/*AUTHOR: AARON KIMUTAI ROP
+Reg No:BSE-01-0082/2025 
+Description:  Class project 2
+Date : 27/05r/2025
+Version 1
+*/
+
 #include<iostream>
 using namespace std ;
 
