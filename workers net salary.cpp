@@ -1,3 +1,10 @@
+/*AUTHOR: AARON KIMUTAI ROP
+Reg No:BSE-01-0082/2025 
+Description:  Workers net salary
+Date : 27/05r/2025
+Version 1
+*/
+
 #include<iostream>
 #include<math.h>
 using namespace std;
